@@ -1,0 +1,12 @@
+- id: internal-tool-builders
+  name: "Internal Tool Builders"
+- id: open-source-admin-panels
+  name: "Open-Source Admin Panels"
+- id: low-code-app-platforms
+  name: "Low-Code App Platforms"
+- id: database-uis
+  name: "Database UIs"
+- id: workflow-apps
+  name: "Workflow Apps"
+- id: ai-app-builders-for-internal-tools
+  name: "AI App Builders for Internal Tools"

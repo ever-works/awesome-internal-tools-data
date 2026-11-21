@@ -1,0 +1,58 @@
+- id: freemium
+  name: "Freemium"
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: enterprise
+  name: "Enterprise"
+- id: internal-tools
+  name: "Internal Tools"
+- id: open-source
+  name: "Open Source"
+- id: free-plan
+  name: "Free Plan"
+- id: admin-panels
+  name: "Admin Panels"
+- id: low-code
+  name: "Low-Code"
+- id: no-code
+  name: "No-Code"
+- id: ai-powered
+  name: "AI-Powered"
+- id: cloud
+  name: "Cloud"
+- id: plugin-system
+  name: "Plugin System"
+- id: react
+  name: "React"
+- id: workflow-automation
+  name: "Workflow Automation"
+- id: developer-tools
+  name: "Developer Tools"
+- id: client-portals
+  name: "Client Portals"
+- id: web-apps
+  name: "Web Apps"
+- id: headless-cms
+  name: "Headless CMS"
+- id: data-platform
+  name: "Data Platform"
+- id: database
+  name: "Database"
+- id: backend
+  name: "Backend"
+- id: mobile-apps
+  name: "Mobile Apps"
+- id: content-management
+  name: "Content Management"
+- id: database-apps
+  name: "Database Apps"
+- id: code-generation
+  name: "Code Generation"
+- id: business-apps
+  name: "Business Apps"
+- id: fair-code
+  name: "Fair-Code"
